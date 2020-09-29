@@ -1,0 +1,3 @@
+Information gerrymandering and undemocratic decisions
+Auto-detection model for horizontal oil wells using pressure transient responses.
+Incremental feature selection for efficient classification
