@@ -1,4 +1,7 @@
 .ipynb_checkpoints/
 __pycache__/
 References/
+/build/
+/compile.bat
 *.ipynb
+*.spec
