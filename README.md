@@ -15,7 +15,7 @@ Several dependencies are necessary to run this script.
 
 Directly run:
 ```shell
-python main.py
+python run.py
 ```
 
 The reference file will be saved to directory "./References" in default. You can change it accordding to the hint.
@@ -26,7 +26,7 @@ You can paste your wanted paper title or description to download reference file.
 
 Run
 ```shell
-python main.py demo_titles.txt
+python run.py demo_titles.txt
 ```
 
 You can download all reference files listed in the file.
